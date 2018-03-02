@@ -32,7 +32,7 @@
 #include "cluster.h"
 #include "endianconv.h"
 
-#include "../deps/xsdn_channel/xsdn_channel_capi.h"
+#include "xsdn_channel_capi.h"
 
 #include <sys/types.h>
 #include <sys/socket.h>
